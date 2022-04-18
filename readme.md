@@ -1,13 +1,11 @@
 # Let's Raise the *Roof!* Predicting the Energy of House Music.  
-#### A predictive study on the energy of music - a measure of intensity and activity
-
-#### Table of Contents
+### A predictive study on the energy of music - a measure of intensity and activity
 
 <details>
   <summary>Table of Contents</summary>
+  
 - [Let's Raise the *Roof!* Predicting the Energy of House Music.](#lets-raise-the-roof-predicting-the-energy-of-house-music)
-      - [A predictive study on the energy of music - a measure of intensity and activity](#a-predictive-study-on-the-energy-of-music---a-measure-of-intensity-and-activity)
-      - [Table of Contents](#table-of-contents)
+    - [A predictive study on the energy of music - a measure of intensity and activity](#a-predictive-study-on-the-energy-of-music---a-measure-of-intensity-and-activity)
   - [Introduction](#introduction)
   - [Attributes](#attributes)
   - [Data Pre-processing](#data-pre-processing)
