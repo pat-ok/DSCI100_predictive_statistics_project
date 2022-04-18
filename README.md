@@ -536,8 +536,12 @@ An RMPSE value of 0.122 is relatively low, and indicates a well fitted model. Ho
 ## Residuals Analysis
 
 The RMPSE value is often insufficient alone to determine the efficacy of the model. An additional way to view the model efficacy is by using the residuals. The residual for each observation represents the difference between the actual value and the predicted value, using the formula:  
-$e = y - \hat{y}$  
-Where $e$ is the residual, $y$ is the actual value, and $\hat{y}$ is the predicted value.  
+![equation](https://latex.codecogs.com/gif.latex?%5Cbg_white%20%5CLARGE%20%5Cdpi%7B110%7De%20=%20y%20-%20%5Chat%7By%7D)  
+  
+Where ![equation](https://latex.codecogs.com/gif.latex?%5Cbg_white%5CLARGE%20%5Cdpi%7B110%7De)
+is the residual, ![equation](https://latex.codecogs.com/gif.latex?%5Cbg_white%5CLARGE%20%5Cdpi%7B110%7Dy)
+is the actual value, and ![equation](https://latex.codecogs.com/gif.latex?%5Cbg_white%5CLARGE%20%5Cdpi%7B110%7D%5Chat%7By%7D)
+is the predicted value.  
 Assessing the distributions of residuals in normal and fitted plots will provide insight regarding how the goodness of fit for the model varies across the data.
 
 <details>
