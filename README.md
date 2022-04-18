@@ -1,5 +1,5 @@
-# Let's Raise the *Roof!* Predicting the Energy of House Music.  
-### A predictive study on the energy of music - a measure of intensity and activity
+# Let's Raise the *Roof!* Predicting the Energy of House Music
+### A predictive study on the energy of music - a measure of intensity and activity.
 
 <details>
   <summary>Table of Contents</summary>
