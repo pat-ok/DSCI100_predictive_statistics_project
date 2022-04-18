@@ -4,21 +4,19 @@
 <details>
   <summary>Table of Contents</summary>
   
-- [Let's Raise the *Roof!* Predicting the Energy of House Music.](#lets-raise-the-roof-predicting-the-energy-of-house-music)
-    - [A predictive study on the energy of music - a measure of intensity and activity](#a-predictive-study-on-the-energy-of-music---a-measure-of-intensity-and-activity)
-  - [Introduction](#introduction)
-  - [Attributes](#attributes)
-  - [Data Pre-processing](#data-pre-processing)
-    - [Required Libraries](#required-libraries)
-    - [Gathering the Data](#gathering-the-data)
-    - [Reading and Cleaning the Data](#reading-and-cleaning-the-data)
-  - [Multicollinearity Assessment](#multicollinearity-assessment)
-  - [KNN Regression](#knn-regression)
-    - [Feature Selection](#feature-selection)
-    - [K-Neighbors Grid Search](#k-neighbors-grid-search)
-  - [Residuals Analysis](#residuals-analysis)
-  - [Discussion](#discussion)
-  - [References](#references)
+1. [Introduction](#introduction)
+2. [Attributes](#attributes)
+3. [Data Pre-processing](#data-pre-processing)
+   * [Required Libraries](#required-libraries)
+   * [Data Collection](#gathering-the-data)
+   * [Data Cleaning](#reading-and-cleaning-the-data)
+4. [Multicollinearity Assessment](#multicollinearity-assessment)
+5. [KNN Regression](#knn-regression)
+   * [Feature Selection](#feature-selection)
+   * [K-Neighbors Grid Search](#k-neighbors-grid-search)
+6. [Residuals Analysis](#residuals-analysis)
+7. [Discussion](#discussion)
+8. [References](#references)
 </details>
 
 ## Introduction
